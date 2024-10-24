@@ -25,9 +25,9 @@ To run this project, you need the following dependencies installed:
 
 ## Running 
 
--Run the ProocessDataset.ipynb file first. We get the processed dataset
--Run the ModelTrain.ipynb file next. We generate the model
--Run the CS Proj.py file last. We can access the Password strength checker and Password generator via it
+- Run the ProocessDataset.ipynb file first. We get the processed dataset
+- Run the ModelTrain.ipynb file next. We generate the model
+- Run the CS Proj.py file last. We can access the Password strength checker and Password generator via it
 
-##Github Link
--https://github.com/ROBOCANDY29/Password_checker_and_generator.git
+## Github Link
+- https://github.com/ROBOCANDY29/Password_checker_and_generator.git
