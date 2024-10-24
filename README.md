@@ -23,6 +23,3 @@ To run this project, you need the following dependencies installed:
 - Numpy & Pandas (for data handling)
 - HaveIBeenPwned API key (optional, for breach detection)
 
-To install the required libraries, you can use the following command:
-```bash
-pip install -r requirements.txt
